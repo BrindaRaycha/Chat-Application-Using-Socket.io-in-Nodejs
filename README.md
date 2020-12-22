@@ -6,5 +6,7 @@ After download or clone run npm install to install all the dependancies.
 #install dependancies
 
 npm install express
+
 npm install nodemon -D
+
 npm install socket.io
