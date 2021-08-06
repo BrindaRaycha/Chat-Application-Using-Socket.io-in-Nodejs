@@ -3,6 +3,8 @@ Chat application using NodeJs and socket.io. We will learn how to create a Chat 
 
 After download or clone run npm install to install all the dependancies.
 
+#YouTube Link : https://youtu.be/NB4GQL7VBDY
+
 #install dependancies
 
 npm install express
